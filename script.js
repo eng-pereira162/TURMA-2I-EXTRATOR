@@ -1,0 +1,1 @@
+ const botaoExtrair = document.querySelector("#botao-palavrachave")
